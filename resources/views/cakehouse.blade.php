@@ -10,6 +10,7 @@
     <h1> Cake House  </h1>
     <h2>Customised Home Made Cakes</h2>
     <h2>cupcakes popsticks and popsicles</h2>
+    <h2>dun</h2>
     @yield('content')
     <a href="{{ route ( 'add') }}">address</a><br><br>
     <a href="{{ route ( 'hi' ) }}">click</a><br><br>
